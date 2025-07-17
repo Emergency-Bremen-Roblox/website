@@ -60,16 +60,6 @@ body {
   transform: scale(1.1);
 }
 
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-
 /* HERO */
 .hero {
   background: linear-gradient(to right, #ff9422, #ff7b00);
